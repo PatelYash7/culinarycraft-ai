@@ -2,10 +2,10 @@
 
 import { useState } from "react"
 import { motion } from "framer-motion"
-import { Button } from "@/components/ui/button"
-import { Input } from "@/components/ui/input"
 import { ChefHat, Utensils, Carrot, Apple } from "lucide-react"
 import { useFloatingAnimation } from "@/hooks/useFloatingAnimation"
+import { Button } from "@/components/ui/button"
+import { Input } from "@/components/ui/input"
 
 export default function LandingPage() {
   const [email, setEmail] = useState("")
