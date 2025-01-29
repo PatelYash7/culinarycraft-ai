@@ -139,7 +139,7 @@ export default function LandingPage() {
               <p className="text-lg text-center max-w-3xl mx-auto">
                 CulinaryCraft AI is an intelligent recipe generator that helps users turn available ingredients into
                 delicious dishes. Powered by advanced AI, it suggests creative, flavor-rich recipes tailored to your
-                pantry, ensuring you never waste ingredients and always enjoy a delightful meal. Whether you're a home
+                pantry, ensuring you never waste ingredients and always enjoy a delightful meal. Whether you&apos;re a home
                 cook or a culinary explorer, CulinaryCraft AI is your ultimate kitchen companion!
               </p>
             </motion.div>
